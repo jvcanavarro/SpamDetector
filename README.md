@@ -1,1 +1,1 @@
-# SupervisedLearning
+# SpamDetector
